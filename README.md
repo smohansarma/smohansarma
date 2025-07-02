@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Mohan Sarma S
 
-<!--
-**smohansarma/smohansarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresher Software Developer | Python | HTML | CSS | JavaScript | MySQL  
+🚀 Currently building mini web apps and learning full-stack development  
+📫 How to reach me: mohansarma2005@gmail.com | [LinkedIn](https://www.linkedin.com/in/mohan-sarma-s-b36752252)
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack:
+- Languages: Python, JavaScript, HTML, CSS
+- Database: MySQL
+- Tools: Git, VS Code, Chrome DevTools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Projects
+- Portfolio Website
+- Notes App (with localStorage)
+- To-Do App (with DOM + Storage)
+- Contact Form (Validation)
+
+Let’s connect and grow together 🚀
