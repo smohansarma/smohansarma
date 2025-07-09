@@ -10,9 +10,10 @@
 - Tools: Git, VS Code, Chrome DevTools
 
 ### 🔧 Projects
-- Portfolio Website
+
 - Notes App (with localStorage)
 - To-Do App (with DOM + Storage)
 - Contact Form (Validation)
+- calculator 
 
 Let’s connect and grow together 🚀
