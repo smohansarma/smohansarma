@@ -14,6 +14,6 @@
 - Notes App (with localStorage)
 - To-Do App (with DOM + Storage)
 - Contact Form (Validation)
-- calculator 
+- calculator  and + etc...
 
 Let’s connect and grow together 🚀
