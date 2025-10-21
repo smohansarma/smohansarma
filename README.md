@@ -12,8 +12,11 @@
 # 🛠 Tech Stack
 
 Frontend: React.js, React Native, HTML, CSS, JavaScript
+
 Backend: Django, Python, REST API
+
 Database: MongoDB, MySQL
+
 AI & Tools: OpenAI / Gemini API, Git, GitHub, VS Code, Postman
 
 # 💼 Internship Experience
