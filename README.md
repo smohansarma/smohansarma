@@ -1,49 +1,68 @@
-# 👋 Hi, I’m Mohan Sarma S
+# Hi, I'm Mohan Sarma S 👋
 
-🎯 Full Stack Developer (Fresher) | React.js | Django | React Native | MongoDB | MySQL
-🚀 Passionate about building scalable web & mobile applications with clean UI and strong backend logic.
-🧠 Exploring AI Integration using Gemini & OpenAI APIs to create smart, data-driven apps.
+Full Stack Developer | React.js · Django · React Native · MongoDB · MySQL
+Building scalable web & mobile applications with clean UI and strong backend logic. Currently integrating AI (Gemini & OpenAI APIs) into production apps.
 
-# 📫 Contact: connectmohansarma@gmail.com
+📍 Thoothukudi, Tamil Nadu, India
+📩 connectmohansarma@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/mohan-sarma/)
 
-🔗 [LinkedIn](www.linkedin.com/in/mohan-sarma-s)
+🟢 **Open to full-time Full Stack Developer roles**
 
+---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-Frontend: React.js, React Native, HTML, CSS, JavaScript
+**Frontend:** React.js · React Native · TypeScript · JavaScript · HTML · CSS
+**Backend:** Django · Python · REST API
+**Database:** MongoDB · MySQL
+**DevOps / Tools:** Docker · Git · GitHub · Mapbox SDK · Postman · VS Code
+**AI Integration:** Gemini API · OpenAI API · Ollama
 
-Backend: Django, Python, REST API
+---
 
-Database: MongoDB, MySQL
+## 🚀 Highlighted Projects
 
-AI & Tools: OpenAI / Gemini API, Git, GitHub, VS Code, Postman
+> These were built as part of my role at Vienstereoptic. Source is proprietary, so each entry below is a case-study summary — happy to walk through architecture or code in an interview.
 
-# 💼 Internship Experience
+### 🚕 CallTaxi — Geospatial Ride-Hailing App
+Ride-hailing platform with real-time driver-rider matching.
+- Implemented Haversine-distance based nearest-driver matching
+- Integrated Mapbox SDK for live location and route rendering
+- Built secure JWT + OTP authentication flow
+- **Stack:** React.js, Django, MySQL, Mapbox SDK, JWT
 
-Software Developer Intern — Vienstereoptic (July 2025–present)
+### 📝 Onchip Blog — AI-Powered Blogging Platform
+Blog platform with AI-assisted content tooling.
+- Integrated Gemini and Ollama for AI-assisted writing features
+- Containerized with Docker and deployed via Kubernetes
+- Set up SonarQube for code quality gates in the pipeline
+- **Stack:** React.js, Django, Docker, Kubernetes, Gemini API, Ollama, SonarQube
 
-Converted Django-only projects into full-stack apps using React.js + Django + MySQL.
+### 🧪 Mock Portal — Online Test & Evaluation System
+Aptitude and technical evaluation platform with an admin results dashboard.
+- Built test-taking flow with timed evaluations and auto-scoring
+- Admin dashboard for results analytics
+- **Stack:** React.js, Django, MySQL
 
-Built Admin Module for Employee Management App to handle employee data, in/out time, and site sessions.
+### 👥 VSuite — Employee Management App
+Workforce management module for attendance and site sessions.
+- Built the admin module for employee data, in/out time, and site session tracking
+- Migrated legacy Django-only flows to a React.js + Django full-stack app
+- **Stack:** React Native, Django, MongoDB
 
-Developed secure login/signup features for the company website.
+---
 
-# 🔧 Highlighted Projects
+## 📌 Public Repos (Practice & Fundamentals)
 
-🧩 Mock Portal (React + Django + MySQL) — Online test system for aptitude & technical evaluations with admin results dashboard.
+Smaller repos on this profile (calculator, to-do list, CRUD apps, etc.) are early learning exercises, not primary portfolio pieces — see Highlighted Projects above for production-level work.
 
-📱 Employee Management App (React Native + Django + MongoDB) — Admin panel for managing attendance and site sessions.
+---
 
-💼 Vienstereoptic Website (React + Django) — Login/signup modules with form validation and backend integration.
+## 🌱 Currently Learning
 
+- Advanced React patterns
+- Django REST Framework best practices
+- Deeper AI integration patterns (RAG, agentic workflows)
 
-# 🌱 Currently Learning
-
-Advanced React Patterns
-
-Django REST Framework Best Practices
-
-AI Integration (Gemini & OpenAI APIs)
-
-Let’s connect, collaborate, and build awesome things together 🚀
+Let's connect and build something great 🚀
