@@ -14,9 +14,13 @@ Building scalable web & mobile applications with clean UI and strong backend log
 ## 🛠 Tech Stack
 
 **Frontend:** React.js · React Native · TypeScript · JavaScript · HTML · CSS
+
 **Backend:** Django · Python · REST API
+
 **Database:** MongoDB · MySQL
+
 **DevOps / Tools:** Docker · Git · GitHub · Mapbox SDK · Postman · VS Code
+
 **AI Integration:** Gemini API · OpenAI API · Ollama
 
 ---
