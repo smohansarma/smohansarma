@@ -1,72 +1,41 @@
-# Hi, I'm Mohan Sarma S 👋
+### Hi, I'm Mohan 👋
 
-Full Stack Developer | React.js · Django · React Native · MongoDB · MySQL
-Building scalable web & mobile applications with clean UI and strong backend logic. Currently integrating AI (Gemini & OpenAI APIs) into production apps.
+Full Stack Developer with 1 year of experience building multi-tenant SaaS systems, REST APIs, and AI-integrated tools. Currently open to new opportunities.
 
-📍 Thoothukudi, Tamil Nadu, India
-📩 connectmohansarma@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/mohan-sarma/)
-
-🟢 **Open to full-time Full Stack Developer roles**
-
----
-
-## 🛠 Tech Stack
-
-**Frontend:** React.js · React Native · TypeScript · JavaScript · HTML · CSS
-
-**Backend:** Django · Python · REST API
-
-**Database:** MongoDB · MySQL
-
-**DevOps / Tools:** Docker · Git · GitHub · Mapbox SDK · Postman · VS Code
-
-**AI Integration:** Gemini API · OpenAI API · Ollama
+- 🏗️ Sole developer of a multi-tenant SaaS platform's core backend — automated tenant provisioning, dual-layer role/plan-based access control, and proration billing — verified via git commit history
+- 🔀 Git integration lead on a School ERP product, merging feature branches across a multi-developer team
+- 🤖 Building with AI integration: Ollama, Gemini API, OCR pipelines
+- 📈 Promoted Intern → Software Developer → Team Lead within 12 months
+- 🌱 Currently sharpening data structures & algorithms, and exploring backend/infrastructure-level systems
 
 ---
 
-## 🚀 Highlighted Projects
+### 🛠️ Tech Stack
 
-> These were built as part of my role at Vienstereoptic. Source is proprietary, so each entry below is a case-study summary — happy to walk through architecture or code in an interview.
+**Languages & Frameworks**
+`JavaScript` `TypeScript` `Python` `React.js` `React Native` `Django` `Django REST Framework` `FastAPI` `Node.js`
 
-### 🚕 CallTaxi — Geospatial Ride-Hailing App
-Ride-hailing platform with real-time driver-rider matching.
-- Implemented Haversine-distance based nearest-driver matching
-- Integrated Mapbox SDK for live location and route rendering
-- Built secure JWT + OTP authentication flow
-- **Stack:** React.js, Django, MySQL, Mapbox SDK, JWT
+**Databases**
+`MongoDB` `MySQL` `SQLite`
 
-### 📝 Onchip Blog — AI-Powered Blogging Platform
-Blog platform with AI-assisted content tooling.
-- Integrated Gemini and Ollama for AI-assisted writing features
-- Containerized with Docker and deployed via Kubernetes
-- Set up SonarQube for code quality gates in the pipeline
-- **Stack:** React.js, Django, Docker, Kubernetes, Gemini API, Ollama, SonarQube
+**Tools & Infra**
+`Docker` `Nginx` `Git` `UiPath (RPA)`
 
-### 🧪 Mock Portal — Online Test & Evaluation System
-Aptitude and technical evaluation platform with an admin results dashboard.
-- Built test-taking flow with timed evaluations and auto-scoring
-- Admin dashboard for results analytics
-- **Stack:** React.js, Django, MySQL
-
-### 👥 VSuite — Employee Management App
-Workforce management module for attendance and site sessions.
-- Built the admin module for employee data, in/out time, and site session tracking
-- Migrated legacy Django-only flows to a React.js + Django full-stack app
-- **Stack:** React Native, Django, MongoDB
+**AI Integration**
+`Gemini API` `Ollama` `OCR` `DeepFace / ArcFace`
 
 ---
 
-## 📌 Public Repos (Practice & Fundamentals)
+### 📌 Pinned work
 
-Smaller repos on this profile (calculator, to-do list, CRUD apps, etc.) are early learning exercises, not primary portfolio pieces — see Highlighted Projects above for production-level work.
+- **[multi-tenant-saas-starter](https://github.com/smohansarma/multi-tenant-saas-starter)** — an original reference implementation of a multi-tenant SaaS pattern: automated tenant provisioning, dual-layer RBAC + plan gating, and proration billing. Built to demonstrate the architecture pattern behind my production work.
+- **CallTaxi** — customer-facing module of a ride-hailing app: location search, fare estimation, live driver matching via geospatial queries.
+
+*(Most of my production work lives in private company repositories due to employer confidentiality — happy to walk through the architecture in detail on request.)*
 
 ---
 
-## 🌱 Currently Learning
+### 📫 Reach me
 
-- Advanced React patterns
-- Django REST Framework best practices
-- Deeper AI integration patterns (RAG, agentic workflows)
-
-Let's connect and build something great 🚀
+- Email: connectmohansarma@gmail.com
+- LinkedIn: [linkedin.com/in/mohan-sarma-s](https://linkedin.com/in/mohan-sarma-s)
