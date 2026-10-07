@@ -2,11 +2,11 @@
 
 Full Stack Developer with 1 year of experience building multi-tenant SaaS systems, REST APIs, and AI-integrated tools. Currently open to new opportunities.
 
-- 🏗️ Sole developer of a multi-tenant SaaS platform's core backend — automated tenant provisioning, dual-layer role/plan-based access control, and proration billing — verified via git commit history
-- 🔀 Git integration lead on a School ERP product, merging feature branches across a multi-developer team
-- 🤖 Building with AI integration: Ollama, Gemini API, OCR pipelines
-- 📈 Promoted Intern → Software Developer → Team Lead within 12 months
-- 🌱 Currently sharpening data structures & algorithms, and exploring backend/infrastructure-level systems
+-  Sole developer of a multi-tenant SaaS platform's core backend — automated tenant provisioning, dual-layer role/plan-based access control, and proration billing — verified via git commit history
+-  Git integration lead on a School ERP product, merging feature branches across a multi-developer team
+-  Building with AI integration: Ollama, Gemini API, OCR pipelines
+-  Promoted Intern → Software Developer → Team Lead within 12 months
+-  Currently sharpening data structures & algorithms, and exploring backend/infrastructure-level systems
 
 ---
 
